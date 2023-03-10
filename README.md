@@ -10,7 +10,7 @@ Description : HTTP requests and libraries are hard. Sometimes they do not behave
 
 On visiting the page , it shows with some instruction and cookies.
 
-![ctf01.png](Nullcon/ctf01.png)
+![ctf01.png](Nullcon%20HackIM%20CTF%20fe5a0190811f41cfa761fb017ffe61fc/ctf01.png)
 
 ```php
 role = request.cookies.get('role','guest')
@@ -41,7 +41,7 @@ Description : My colleague built a service which shows the contents of a zip fil
 
 The webpage shows with some instruction as make a zipfile as post request !!.
 
-![ctf02.png](Nullcon/ctf02.png)
+![ctf02.png](Nullcon%20HackIM%20CTF%20fe5a0190811f41cfa761fb017ffe61fc/ctf02.png)
 
 So, we have to send zip file to the server.They gave the actual backend code for the challege.
 
